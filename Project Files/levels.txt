@@ -1,0 +1,248 @@
+$1
+PPPPPPPPPPPPPPPPP                                                         P
+P                                                                         P
+P                                                                         P
+P                                   PPPP                      D           P
+P                                   PPPP                                  P
+P                                                                       PPP
+P                     PPPPPPP                                          PPPP
+P                     PPPPPPP                                            PP
+P          L            PP                    L                      H    P
+PPPPPPPPPPPPPP                           PPPPPPPP        PPPSSPP     PP   P
+PPPPPPPPPPPPPP                           PPPPPPPP        PPPPPPP     PPP  P
+P                                L L        PP                       PP   P
+P                             PPPPPPP                                PP   P
+P                             PPPPPPP                PPPPPPPP       PPP   P
+P        PPPPP                                       PPPPPPPP       PP    P
+P        PPPPP                                                     PPP    P
+P D                                                                 PP    P
+P                                                PP                  PP   P
+P   PPPPPPPPPPPPP                                PP         PPPP     PP   P
+P   PPPPPPPPPPPPP           D                   LPP         PPP      PP  PP
+P                              G               PPPP                 PPP  PP
+P                     PPPPPPPPPPPP             PPPP                 PPP  PP
+P                    PPPPPPPPPPP              PPPPPP    PPPPP        PP  PP
+P                                              PPPPP    PPPPP        PP   P
+PX                   T                        PPPPPP                 PP   P
+P  L           LGGG               L     PPP   PPPPPPP                PP   P
+PPPPPPPPPP     PPPPPPPPPP   PPPPPPPPPP PPPPPPPPPPPPPP                PPEEEP
+PPPPPPPPPPSSSSSPPPPPPPPPPSSSPPPPPPPPPPPPPPPPPPPPPPPPPSSSSSSSSSSSSSSSSPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+@
+$2
+PPPPP                                                                     P
+PX PP                                                                     P
+P  PP                                                              D      P
+P  PP                                                                     P
+P  PP                                                                     P
+P  PP                                                                     P
+P  PP                                             PPPPP                   P
+P  PP                                             PPPPP                   P
+P  PP                                                                     P
+P                                   PPPPPP                                P
+P                                   PPPPPP                                P
+P              D                                                          P
+P                                                                         P
+P                                           PPP                      PPPPPP
+P                      PP               PPPPPPP                 D  PPPPP  P
+P            PPkkkkkkkkPP    PPPP       PPPPP                      PPP    P
+P            PPKKKKKKKKPP    PPPP                                  PP     P
+P            PPPPPPPPPPPP                        PP                PP   EEP
+P             PPPPPPPPPPP                   D    PP             PPPPP   PPP
+P                                                              PPPPP      P
+PP                                                           PPPPP        P
+PP                              PP                           PPP          P
+PPP                            PPP             PPP                        P
+PPP              PP          PPPPPP           PPPPP   kkkk        kkkPPkkkP
+PPP   PPPPP   PPPPPPPPPP     PPPPPPPPPPPPP  PPPPPPPPPPkkkkPPPPPPPPkkkPPkkkP
+PPPSSSPPPPPSSSPPPPPPPPPPSSSSSPPPPPPPPPPPPPSSPPPPPPPPPPKKKKPPPPPPPPKKKPPKKKP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+@
+$3
+PPPPPPP                                      PPPPP
+PPPPPPP                                       PPPP
+PPPP                                             P
+PP                                              EP
+P                                               EP
+PP         PPPPPPPP     PPPPPPPPPPPPPPPPPPPPPPPPPP
+PP       PPPPPPPPPP    PPPPPPPPPPPPPPPPPPPPPPPPPPP
+PP         PPPPPPP     PPPPPPPPPPPPPPPPPPPPPPPPPPP
+PPP                                        PPPPPPP
+PPP                                        PPPPPPP
+PPPPP                                         PPPP
+PPPPPPPPPPPPPPPPPPPP     PPPPPPPPPPPPPPP       PPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP     PPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP        PPPP
+P                                                P
+P                                                P
+P                                                P
+PP              PPP            PPPP          PPPPP
+PP            PPPPP                             PP
+P             PPPP                               P
+P                                                P
+P                                                P
+P                                                P
+P                                                P
+PPP                                              P
+PPPP                                             P
+PPPPP                                            P
+PPPPP                            PPP             P
+PPPPPPP                          PPP             P
+P    PPP                                         P
+P                                                P
+PX                                               P
+PPPPPP   PPPPPPPPPPPPkkkkkkkkkkkkPPPPPPPPPPPPPPPPP
+PPPPPPSSSPPPPPPPPPPPPKKKKKKKKKKKKPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+@
+$4
+PPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPP          PPPPPPPPP
+PPP                PPPPPP
+PP                 PPPPPP
+PP                    PPP
+PP                     PP
+PP         F           PP
+P       PPPPP          EP
+PX    PPPPPPPPPP       EP
+PPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPP
+@
+$5
+P                                                                                             P
+P                                                                    PPPPPPPPPPPPPPPPPPPPPPPPPP
+P                                                                     PP              PPPPPPPPP
+P                                                                                       PPPPPPP
+P                                                                              F         PPPPPP
+P                                                                                          PPPP
+P                                                                            PPPP           PPP
+PE                        D       PPP                                       PPPPP          PPPP
+PE               PP             PPPPP         PP      D          D         PPPPPP        PPPPPP
+PE    PP        PPPPP         PPPPPPP    D    PP                         PPPPPPPPP       PPPPPP
+PPPPPPPPPPP    PPPPPPPPPPPPPPPPPPPPPPP       PPPPPP                    PPPPPP  PPP           PP
+PPP   PPPPPPPPPPPPPP    PPPPPPPPP  PPPPPPPPPPPPPPPPPPPPPPPPPPPPP       PP  PP                PP
+PPPP  PPPPPPPPPPPPPP    PPPPPPP   PPPPPPPPPPPPPP  PPPPPPPPPPPPPPPPPPPPP  PPPkkkkkPP         PPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP  PPPPPPPPP  PPPPPPPPPPPPPPPKKKKPPP        PPP
+PPPPPP  PPP                    PP    PPPPPPPPPPPP  PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP        PP
+PPP      PP                    PP                           PP            PPPPPPPPPPP         P
+PP                                                          PP                   PPPPPP       P
+P                                                                                 PPPPP      PP
+P                   PP                                                            PP         PP
+P                  PPP                          PP                                            P
+PX              PPPPPPP    D                    PPP                                           P
+PPPPPPPPPPPPPPPPPPPPPPPP                     PPPPPP     D        PPP             D           PP
+PPPPP      PPPPPPP   PPPPPPPPPkkkkkkkPPPPPPPPPP  PPPP          PPPPPkkkkkPPPPP             PPPP
+PPPPP      PPPPPPPkkkPPPPPPPPPKKKKKKKPPPPPPPPPkkkPPPPPPPPPPPPPPPPPPPKKKKKPPPPPPPPPPPPPPPPPPPPPP
+P               PPPPPPPPPPPPPPPPPPPPPPP    PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP         PPPPPPP
+@
+$6
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPP     PPPPPPPP     PP    PPPPPPPPPPPPPPPPPP PPPPPPPPPPPPPPPPPPPPPPPPPPP          PP
+PPP   PPPPPk       PPP                 PPP       PP      PPPPPP        kkPPPPPPPPPE           P
+PPP   PPPPPPP    PPPPP                 PPP      kPPP      kPP          PPPPPPPPPPPE           P
+PPP   PPPPPP    PPPPPP                 PPP      PPP       PPPP          PPPPPPPPPPE           P
+PP     PPP         PP       PP       kkPP       PPPP        PP           PP     PPPPPP        P
+P       PPP                PPP      PPPPP        PPP                              PPPPP      PP
+PPF    PPPP P              PPP      PPPP                                            PP       PP
+PPPP     PPPP          PPPPPP        PPPk          F   PPP                                   PP
+PPPPk      P           PPPPPPP         PPPP       PPPPPPPPP                                  PP
+PPPPP                    PPP          PPPP       PPPPPPPP                                    PP
+PPPPPP                    PPP           PP        PPPPP P                                     P
+PPPP                     PPPPP                    PPPP  PPP                                   P
+PPPP           PPPP  kPPPPPPPPPk HPPP            PPPP PPP                                     P
+PPPP          PPPPPPPPPPPPPPPPPPPPPPPPPP         PPPPPPP                                     PP
+PP         P  PPPPPPPPPPPP PPP PPPPPPPPP         PPPPPPP                                     PP
+PPP       PPPPPPP PP PP       PPPP   PPP    PP     PPPPPPkk                                 PPP
+PP      PPPPPPPP              PPP P   PP    PP       PPPPPPPPP                              PPP
+PPP     PPPP  kPPPP  F           PPPkPPPP              PPPPP                                 PP
+PPP          PPPPPPPPP          PPPPPPPPP               PPPP                                 PP
+P       kk  PPPPP PP               PPP          PPPP     PPPPPPP                             PP
+P     PPPPPPPP    P       PPP                  PPPPP    PPPPPPPP                           PPPP
+P   PPPPkkPPPP           PPPPP                kPPP      PPPPPPP                             PPP
+P    PPPKKPPP            PPPPP             PPPPPP        PPPPP                               PP
+P   PPPPPPPP               PPP             PPPPPP        PPPP                                kP
+P   PPPPPPPPP               PP              PPPPP         PP                                PPP
+P     PPPPPP     PPP                         PPPk                                           PPP
+PP              PPP   P                      kPPPP                                          PPP
+PPP  X        PPPP   PPP  PP         PP      PPPPP                                          PPP
+PPPPPPPkkkkkkPPPPPPPPPPPPPPP  kkkkkkkPPkkkkkkPPPPPF   PPPP                                  PPP
+PPPPPPPKKKKKKPPPPPPPPPPPPPPPPPKKKKKKKPPKKKKKKPPPPPPPPPPPP                                   PPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+@
+$7
+PPPPPPPPPPPPPEEEPPPPPPPPP
+PPPkkPPPPPPPP   PPPPPPPPP
+PPPKKPPPPP           PPPP
+PPPPPPPPPP          PPPPP
+PPPPPPP          PPPPPPPP
+PPPPPPP        PPPPPPkkPP
+PPPP           PPPPPPKKPP
+PPPP            PPPPPPPPP
+PPPP              PPPPPPP
+PPPPP               PPPPP
+PPPPPPP  PP         PPPPP
+PPPPPPPPPPPPP        PPPP
+PPPPPPPPPPPPP        PPPP
+PPPPPPPPPPPP         PPPP
+PPPPPPPPPP           PPPP
+PPPPPPPPPP        PPPPPPP
+PPPPPPPPP        PPPPPPPP
+PPPPPPPP         PPPPPPPP
+PPPPPPPP            PPPPP
+PPkkkPPPPP          PPPPP
+PPKKKPPPPPPPP       PPPPP
+PPPPPPPPPPPPP       PPPPP
+PPPPPPPP             PPPP
+PPPPPPPPP            PPPP
+PPPPPPPPP            PPPP
+PPPPPPP              PPPP
+PPPPPPP             PPPPP
+PPPP                PPPPP
+P                 PPPPPPP
+P                 PPPPPPP
+P               PPPPPkkkP
+PX      PPP    PPPPPPKKKP
+PPPPPPPPPPPPPPPPPPPPPPPPP
+@
+$8
+PPPPPPPPPPPPPPPPPPPPPPPPP
+P                       P
+P                       P
+P    PP     PP          P
+P    P  PPP  P          P
+P        P              P
+P    P       P          P
+P    PP  P  PP          P
+P    P       P          P
+P        P              P
+P    P  PPP  P          P
+P    PP     PP          P
+P                      EP
+P                      EP
+P       PPPPPPPPPPPPPPPPP
+P      PPPPPPPPPPPPPPPPPP
+P     PPPPPPPPPPPPPPPPPPP
+P     PPPPPPPPPPPPPPPPPPP
+P     PPPPPPPPPPPPPPPPPPP
+PP    PPPPPPPPPPPPPPPPPPP
+PP    PPPPPPPPPPPPPPPPPPP
+PP    PPPPPPPPPPPPPPPPPPP
+P     PPPPPPPPPPPPPPPPPPP
+P     PPPPPPPPPPPPPPPPPPP
+P     PPPPPPPPPPPPPPPPPPP
+P     PPPPPPPPPPPPPPPPPPP
+P    PPPPPPPPPPPPPPPPPPPP
+P    PPPPPPPPPPPPPPPPPPPP
+P    PPPPPPPPPPPPPPPPPPPP
+P    PPPPPPPPPPPPPPPPPPPP
+P    PPPPPPPPPPPPPPPPPPPP
+PX  PPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPP
+@

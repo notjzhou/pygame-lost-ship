@@ -1,0 +1,37 @@
+missing module named pyimod03_importers - imported by /Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/PyInstaller/loader/rthooks/pyi_rth_pkgres.py
+missing module named __main__ - imported by pkg_resources
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
+missing module named 'packaging.specifiers' - imported by pkg_resources
+missing module named packaging - imported by pkg_resources
+missing module named urlparse - imported by pkg_resources
+missing module named 'org.python' - imported by pickle, /Users/jiahaozhou/Documents/15-112/termProject/Project Files/lost_ship.py, xml.sax
+missing module named ce - imported by os, /Users/jiahaozhou/Documents/15-112/termProject/Project Files/lost_ship.py
+excluded module named _frozen_importlib - imported by importlib, /Users/jiahaozhou/Documents/15-112/termProject/Project Files/lost_ship.py
+missing module named win32api - imported by platform, /Users/jiahaozhou/Documents/15-112/termProject/Project Files/lost_ship.py
+missing module named win32con - imported by platform, /Users/jiahaozhou/Documents/15-112/termProject/Project Files/lost_ship.py
+missing module named java - imported by platform, /Users/jiahaozhou/Documents/15-112/termProject/Project Files/lost_ship.py
+missing module named 'java.lang' - imported by platform, /Users/jiahaozhou/Documents/15-112/termProject/Project Files/lost_ship.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, /Users/jiahaozhou/Documents/15-112/termProject/Project Files/lost_ship.py
+missing module named winreg - imported by platform, mimetypes, pygame.sysfont, /Users/jiahaozhou/Documents/15-112/termProject/Project Files/lost_ship.py, urllib.request
+missing module named nt - imported by os, ntpath, shutil, /Users/jiahaozhou/Documents/15-112/termProject/Project Files/lost_ship.py
+missing module named msvcrt - imported by subprocess, multiprocessing.spawn, multiprocessing.popen_spawn_win32, /Users/jiahaozhou/Documents/15-112/termProject/Project Files/lost_ship.py, getpass
+missing module named _winapi - imported by subprocess, multiprocessing.reduction, multiprocessing.connection, multiprocessing.heap, multiprocessing.popen_spawn_win32, /Users/jiahaozhou/Documents/15-112/termProject/Project Files/lost_ship.py
+missing module named _dummy_threading - imported by dummy_threading, /Users/jiahaozhou/Documents/15-112/termProject/Project Files/lost_ship.py
+missing module named org - imported by copy, /Users/jiahaozhou/Documents/15-112/termProject/Project Files/lost_ship.py
+missing module named copy_reg - imported by cStringIO, pygame
+missing module named 'pygame._view' - imported by pygame
+missing module named MacOS - imported by pygame.macosx
+missing module named macresource - imported by MacOS
+missing module named OpenGL - imported by pygame
+missing module named numpy - imported by pygame._numpysurfarray, pygame._numpysndarray, pygame
+missing module named 'pygame.movie' - imported by pygame
+missing module named pygame.SRCALPHA - imported by pygame, pygame.ftfont
+missing module named Queue - imported by pygame.threads
+missing module named Py25Queue - imported by pygame.threads
+missing module named cStringIO - imported by pygame.compat
+missing module named _winreg - imported by pygame, pygame.sysfont
